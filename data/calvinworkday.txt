@@ -1,0 +1,202 @@
+Question: How to view registration time?
+Answer: Workday > Menu > Academics Hub > Overview > Registration Appointments* (*only visible if you have an upcoming registration appointment.) Or, Academics Hub > Suggested Links > View My Registration Appointments
+
+Question: How to view registration appointments?
+Answer: 1. In Workday, go to the Academics Hub by clicking Menu in the upper left corner of Workday, then selecting Academics Hub under Apps. a. If you have an upcoming registration appointment, your Academics Overview will display the appointment information. There will also be a link to any saved schedules you already created. If it’s time to register, click your Saved Schedules to get started. 2. To view registration appointment details, go to Suggested Links in the left sidebar menu of the Academics Hub and click View My Registration Appointments. 3. Workday displays a report showing your registration appointments by academic period, including the start and end time for each academic period’s registration appointment. • The Start Date within refers to the start date of the academic period for which you can register, not the start of the registration appointment. The Start and End times listed are the beginning and end of your registration appointment for that period 4. You can register for courses or change your schedule (drop or swap) at any time during your registration appointment.
+
+Question: How  TO UPDATE YOUR ACADEMIC PLAN
+Answer: Workday > Menu > Academics Hub > Planning and Registration > My Academic Plan > Update Plan > Scroll to a semester to plan > Click + to add row > Select an academic requirement then choose a course that meets the requirement (or, add a course without adding a requirement) > continuing adding requirements/courses > OK to save
+
+Question: How to VIEW YOUR ACADEMIC PLAN?
+Answer:
+1. In Workday, go to the Academics Hub by clicking the Menu in the upper left corner of Workday, then selecting Academics Hub under Apps (or click View All Apps on your homepage.)
+a. Then, under Planning and Registration, click My Academic Plan.
+2. Workday displays your Academic Plan.
+a. At the top, you’ll see a button to Update Plan
+b. Below that are lists of accounted for and unaccounted for academic requirements to help you plan. See below for more information on how to use these.
+c. Additional buttons allow you to: register from plan, view saved schedules, create a saved schedule, or create an alternate plan. But If you do not already have an academic plan, click Create My Academic Plan to get started. Select your primary major as the Program of Study and select a template if one is available. Then click OK to start building your plan. The other buttons and tools will appear once you create an academic plan.
+
+Question: How to REVIEW UNACCOUNTED FOR ACADEMIC REQUIREMENTS?
+Answer: From your Academic Plan, you can view the requirements you have already met or planned,
+and a list of academic requirements that are not yet accounted for. These lists are only planning
+tools and do not show whether or not you actually met the requirement. You should also refer to
+your Academic Progress to ensure you are meeting all requirements toward graduation.
+(Learn more about Academic Progress.)
+3. Click the hyperlinked number to open a list of unaccounted for academic requirements.
+a. Use this list as a guide for what you may need to add to your academic plan. The list
+includes all requirements for your primary major including core, and for your additional
+majors and minors.
+
+Question: How do you UPDATE YOUR PLAN?
+AnswerYour academic plan is organized by academic year and then by period (semester). Add the
+requirements you plan to meet that semester, and then select a course to meet that
+requirement. You can also add courses you want to take without selecting a corresponding
+requirement. Selecting courses on your plan makes it much easier to create a saved schedule
+and register for classes.
+4. From your Academic Plan, click the Update Plan button.
+5. Workday displays your academic plan by academic year and then by academic period
+(semester). Scroll down to the academic year you want to plan.
+a. If you need to add an academic year, scroll down to the bottom of the plan and click the
+Add button. Then click the + icon to add a period (semester) to that year.
+6. To add a requirement/course to your plan, click the add row
+icon next to that academic period.
+
+
+a. In the Academic Requirement field, click to search for a
+requirement. You can type the name to search (for example
+“Humanities core” or “HIST 395”); or click All to select from a
+dropdown list of all your academic requirements based on your
+program(s) of study.
+b. In the Course field, select from the list of courses that meet that requirement. You can
+only add one course per row, so you may need to add the requirement multiple times if
+you need to take more than one course to meet the requirement (such as “Take 3
+electives”) or to have multiple options to meet the requirement on your plan to help you
+create a schedule later. You can also add courses without adding an academic
+requirement; just add a row and search for a course in the Course field.
+
+
+
+
+
+
+Some requirements are for a specific course, like “Take PHIL 153.” You should still
+add a course for that requirement on your plan; the list of courses, not requirements,
+will be used later to make a saved schedule.
+Some courses have corequisites, like labs. Add the lab to your plan as a separate
+course.
+Once you select a course, Workday displays the number of semester hours for the
+course, and whether or not you are eligible to enroll.
+
+
+7. Repeat step 5 to continue adding rows for additional requirements and/or courses.
+
+
+8. Make any additional changes to your plan, as needed:
+a. To add an additional Academic Period, click the add row
+icon at the top of the
+table for the Academic Year. Academic Plans default to show just the standard terms
+(fall, spring, and summer), so you may want to add additional periods to plan shorter
+periods such as Fall 1 or Intensives.
+
+
+b. To remove an academic requirement or academic period, click the remove row
+icon next to the period or requirement. Removing an Academic Period row also removes
+all requirements already planned for that period.
+
+
+c. To add an additional Academic Year, click the Add button at the bottom of the
+academic plan.
+
+
+d. To remove an entire Academic Year from your plan, click the Remove button under that
+academic year. WARNING: Removing an academic year also removes everything you
+have planned for that year.
+
+
+9. When you are done making changes to your Academic Plan, click OK to save. Or click
+Cancel to exit without saving any of your changes.
+
+
+
+
+
+
+
+
+Question: The only thing I see on My Academic Plan is a Create Plan button. Where are the otherbuttons?
+• The other planning tools are only available once you have a plan. Click Create Plan to
+start a plan. You can leave it blank and just click OK and Done to save. Once you have
+created a plan, even if it is blank, the other planning tools will appear.
+
+
+Question: I’m trying to add a course and receiving an error that I have to add a lab. How do I add a lab?
+Answer:
+• Add an additional row to that semester. In the course field, search for and select the lab
+(like PHYS 101L).
+When I add a course to my plan, I receive an alert that I’ve selected a course that is not
+normally offered in that period. What should I do?
+• Not every course is offered every semester, and some courses do not have a regular
+schedule listed in Workday, which may cause you to get this alert. You can still add that
+course to your plan, but keep in mind it may not be offered. Prior to registration, use Find
+Course Sections to check actual course availability.
+
+
+Question: I changed my major. How do I update my academic plan?
+Answer: • You can only create academic plans for programs of study you are currently active in.
+Request to change your program of study first. Once that is approved, go to your
+academic plan and click Create Alternate Plan. Select your new major as the Program
+of Study, then select the associated Academic Plan Template (if available.) Click OK and
+begin building your new plan.
+• Once you have created your alternate academic plan, go to your academic plan and
+click Request Change Primary Plan. Select the new plan and submit. Once your
+request is approved, your new plan will display from My Academic Plan.
+
+
+Question: I’m trying to create a schedule or register for courses from my plan, but not all the
+courses I want are appearing. Why not?
+Answer: • Create Schedule and Register from Plan create a schedule based on the courses you
+selected from your plan. If you did not select courses on your plan, they will not be
+included on a schedule.
+• If the courses you selected are not being offered that semester, they also will not appear
+on the schedule.
+• 8-week and intensive courses may not populate on a schedule created from a plan for a
+semester. You’ll need to add those to your saved schedule manually.
+• You can add additional courses to your planned schedule. See the Schedule Planning
+and Registration guides for more information.
+
+
+Question: Do I have to go back and add requirements and courses to my academic plan for past
+semesters?
+Answer: • No. You can see courses you already took in Academics Hub > Academic History.
+
+
+Academics Register for Classes Students
+
+
+Question: How to REGISTER FROM A SAVED SCHEDULE
+Answer:
+1. In Workday, go to the Academics Hub by clicking the Menu in the upper left corner of Workday, then selecting Academics Hub under Apps (or click View All Apps on your homepage.) a. Then, under Planning and Registration, click Saved Schedules. b. Select the semester in the start date within field. 2. Scroll to your preferred schedule for the semester and click Start Registration. This button only appears when you are eligible to register. 3. Review your selected course sections. a. Some courses require that you also take a lab or other corequisite. Workday will prompt you to register for the relevant corequisite now if it is not on your saved schedule. b. If a section is waitlisted, Workday will add you to the waitlist instead of registering you. You may want to choose a different course for now. Learn more about waitlisting. c. If a section is closed, Workday will not allow you to register for it. Select a different section from the list if available, or click the trash icon to remove that course and proceed with registration for other courses. 4. Click Register to complete your registration. Workday will display a list of your successfully completed registrations and waitlisted sections. 5. If you need to add another course after registering from a saved schedule or academic plan, the best way is to search and register by course section. See next page. 6. View registered courses at Academics Hub > Planning and Registration > Current Schedule. Academics Register for Classes Students 2
+
+
+Question : How to SEARCH AND REGISTER BY COURSE SECTION
+Answer: Use this method to search and register for courses one at a time. This works best if you need to add a course after already registering, or if you do not have a saved schedule. Workday > Menu > Academics Hub > Planning and Registration > Find Couse Sections > use search and filter to find a course > Register > choose section > Register
+
+
+1. In Workday, go to the Academics Hub by clicking the Menu in the upper left corner of Workday, then selecting Academics Hub under Apps (or click View All Apps on your homepage.) a. Then, under Planning and Registration, click Find Course Sections. 2. Set the search parameters and click OK. a. Start Date within: search for the academic period, like “2022 Fall” b. Academic Level: select the course level. c. Location: leave this blank to see all courses, or “Online” to view only online courses. 3. Search or filter to find a course section to register. • Search by prefix and code (like “HIST 280”) or type part of the name, like “British lit.” • Use the filters to narrow your search by subject, status, course tags, and more. • To quickly find core courses, filter on Course Tags to search by core category or tag. • See the guide for more help with searching for course sections. 4. Click the course section name to open its details. 5. Click Register (if available) to register immediately. a. Or, click Add to Schedule to add this section to a saved schedule; you can then register from the whole saved schedule at once. Learn more about saving a schedule. b. If you see a troubleshoot button, you are not eligible to enroll in this course. Click the button to see why. c. If the course is waitlisted, clicking Register will add you to the waitlist instead of enrolling you in the course. Learn more about waitlisting. 6. Workday displays the sections available. Select a section by clicking the checkbox next to it. a. Some courses require that you also take a lab or other corequisite. Workday will prompt you to select a section of the lab or other corequisite to register for at the same time. 7. Click Register to complete your registration. Workday will display a list of your successfully completed registrations and waitlisted sections. a. Use your browser back button to return to course section search. Repeat search and register to add more courses. 8. View your registered courses at Academics Hub > Planning and Registration > Current Schedule. Academics Register for Classes Students
+
+
+Question: How to REGISTER FROM ACADEMIC PLAN
+Answer: 1. In Workday, go to the Academics Hub by clicking the Menu in the upper left corner of Workday, then selecting Academics Hub under Apps. a. Then, under Planning and Registration, click My Academic Plan. b. Review your plan to be sure you have courses selected for this semester. c. Then click Register from Plan 2. Workday displays available courses from your plan. Click each course to select a section. a. Select a section by clicking the checkbox next to it. b. Some courses require that you also take a lab or other corequisite. Workday will prompt you to add the relevant corequisite if you have not already added it to your plan. c. If a section is waitlisted, Workday will add you to the waitlist instead of registering you. You may want to choose a different course for now d. If a section is closed, Workday will not allow you to register for it. Select a different section from the list if available, or click the trash icon to remove that course from your registration attempt. 3. To add additional courses, click Add Course a. Search for a course to add. You can search by name (like, “archaeology”) or by prefix and number (like, “HIST 280”) • This works best if you already know which course you want to add. If you need to search, finish your registration for the courses you already have first, then use Find Course Sections to search and register for additional course(s). 4. Click Register to complete your registration. Workday will display a list of your successfully completed registrations and waitlisted sections. 5. If you need to add another course after registering from a saved schedule or academic plan, the best way is to search and register by course section. See previous page. 6. View your registered courses at Academics Hub > Planning and Registration > Current Schedule. Academics Register for Classes Students
+
+
+
+
+Question: Where is the Register button?
+Answer:  • The button is not visible on saved schedules or course sections until your registration appointment begins.
+
+
+Question: I can’t register for any classes. Why not?
+• You can only register during your assigned registration appointment.
+• There may be a hold on your account. You must resolve holds before you can register. The most common holds are for advising (which must be removed by your advisor after you meet each semester), and for outstanding bills.
+• First semester first-year students may only make schedule changes through the registrar’s office. Please contact the registrar’s office (successcenter@calvin.edu) There is a “troubleshoot” button instead of a “register” button for my chosen course section.
+
+
+Question: Why can’t I enroll?
+Anwer: • Click Troubleshoot to see more information. Usually this means that that there is a hold on your account, that you do not meet the prerequisites or other requirements to participate in this course, or that the course is full.
+
+
+Question: I don’t meet a course prerequisite but want to take the class anyway. How do I request permission?
+Answer: • Use “Request Course Section Prerequisite Override” in Workday to request permission from the instructor to enroll. Approval is not guaranteed. The class I want is full.
+
+
+Question: How do I join the waitlist?
+Answer: • If the section status is listed as “closed,” the waitlist is full. If the section is listed as “waitlisted,” click Register on the registration screen; instead of registering, you will be automatically added to the waitlist. You can see your waitlisted courses from your Current Classes. If a seat opens, you will receive a notification; you must take action to enroll in the course within 24 hours.
+ • The wait may take weeks, months, or never open. Choose another section or class to enroll in while you wait. You can drop something later if you do get a seat.
+
+
+Question: How do I drop or swap a course?
+Answer: • Go to your current schedule (Academics Hub > Planning and Registration > Current Schedule) to view the courses you are enrolled in. Scroll right. Depending on the date, you will see buttons to “drop,” “swap” (for another section), or “withdraw.”
+
+
+Question:  I want to audit a course. How do I switch from graded to audit?
+Answer:  • The default grading basis at registration is Graded. After you register, you can change to audit. Go to your current schedule (Academics Hub > Planning and Registration > Current Schedule) to view the courses you are enrolled in. Under the semester header, click Edit Registration. Choose the course to change and select “Grading Basis” as the type of change; make your changes and submit.

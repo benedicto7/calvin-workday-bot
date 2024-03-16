@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "name": "Calvin Workday Chatbot",
+  "content_scripts": [
+    {
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "js": [
+        "content.js",
+        "script.js"
+      ],
+      "run_at": "document_start"
+    }
+  ],
+  "version": "1.0",
+  "description": "Chatbot powered by Hugging Face",
+  "permissions": [
+    "activeTab"
+  ],
+  "browser_action": {
+    "default_popup": "index.html"
+  },
+  "icons": {},
+  "background": {
+    "scripts": [
+      "background.js"
+    ],
+    "persistent": true
+  }
+}
