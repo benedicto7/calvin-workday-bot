@@ -1,7 +1,8 @@
 calvin workday + chrome extension
 
-
-
+pip install -r requirements.txt
+python -m app
+python -m flash run
 
 # MultiPDF Chat App
 

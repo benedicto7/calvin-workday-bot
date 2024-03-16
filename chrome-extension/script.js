@@ -42,12 +42,24 @@ const MODEL_NAME = "flan-ul2"
 
 // sendButton.addEventListener('click', sendMessage);
 
+
+
 const userInput = document.getElementById('user-input');
 userInput.addEventListener('keyup', (event) => {
   if (event.key === 'Enter') {
     const message = document.getElementById('user-input').value;
     document.getElementById('user-input').value = '';
-    document.getElementById('bot-response').innerHTML = message;
+    document.getElementById('user-response').innerHTML = message;
+
+    $.ajax({
+      data: {
+        msg: message,
+      },
+      type: "POST",
+      url: "http://127.0.0.1:5000/get",
+    }).done(function (data) {
+      document.getElementById('bot-response').innerHTML = data.response;
+    });
   }
 });
 
@@ -56,5 +68,7 @@ sendButton.onclick = () => {
   // Get the user's message from the input field
   const message = document.getElementById('user-input').value;
   document.getElementById('user-input').value = '';
-  document.getElementById('bot-response').innerHTML = message;
+  document.getElementById('user-response').innerHTML = message;
+
+  document.getElementById('bot-response').innerHTML = "";
 }
